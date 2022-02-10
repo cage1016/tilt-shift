@@ -1,0 +1,8 @@
+# https://pypi.org/project/opencv-python/
+opencv-python==4.5.5.62
+
+# https://pypi.org/project/matplotlib/
+matplotlib==3.5.1
+
+# https://pypi.org/project/numpy/
+numpy==1.22.2
